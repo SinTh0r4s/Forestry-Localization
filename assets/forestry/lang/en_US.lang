@@ -1339,7 +1339,7 @@ tile.for.pods.0.name=Pod
 ####################
 
 for.circuit.managedArboreal=Arboretum
-for.circuit.managedCereal=Crop Farm
+for.circuit.managedCereal=Vanilla Crop Farm
 for.circuit.managedInfernal=Infernal Farm
 for.circuit.managedPeat=Peat Bog
 for.circuit.managedShroom=Shroom Farm
