@@ -1,6 +1,6 @@
-Forestry Localizations
+Forestry Localizations (DEPRECATED)
 ======================
-
+__THIS REPOSITORY IS DEPRECATED! ADD LANG ENTRIES TO FORESTRY DIRECTLY!__
 Localizations for Forestry
 
 ### Encoding
